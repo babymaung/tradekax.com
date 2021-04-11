@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<yfconfig>
+  <boolean name="has_root">false</boolean>
+  <boolean name="block_ipv6_sidechannel">true</boolean>
+  <string name="proxytype">HTTP/HTTPS</string>
+  <string name="password">~XsrVAjcbr1jpPw==~</string>
+  <boolean name="block_ipv6_dns">true</boolean>
+  <string name="what_worked_dns_domain">p9r.be</string>
+  <int name="auto_delay">5000</int>
+  <set name="ftp_possible_suffix" type="String">
+    <string>jpg</string>
+    <string>htm</string>
+    <string>txt</string>
+    <string>mp3</string>
+    <string>img</string>
+    <string>bmp</string>
+    <string>iso</string>
+    <string>gif</string>
+    <string>avi</string>
+    <string>png</string>
+  </set>
+  <boolean name="rekey">true</boolean>
+  <boolean name="dumpmode_compress">true</boolean>
+  <boolean name="encryption">true</boolean>
+  <int name="tunnelport">53</int>
+  <int name="bw_downlink">0</int>
+  <boolean name="search_https">true</boolean>
+  <boolean name="search_http">true</boolean>
+  <boolean name="reconnect_after_shutdown">true</boolean>
+  <int name="level_messages">1</int>
+  <string name="protocol">dns</string>
+  <boolean name="autoscroll_messages">true</boolean>
+  <string name="tunnelhost">ems32.your-freedom.de</string>
+  <string name="proxyauth">any or none</string>
+  <int name="dns_server_type_connection">0</int>
+  <boolean name="search_dns">true</boolean>
+  <boolean name="tweaks_automatically_set">true</boolean>
+  <boolean name="aes">true</boolean>
+  <int name="dns_server_type_vpn">1</int>
+  <boolean name="new_config_dialog_suppress">true</boolean>
+  <string name="splash_version">20210106-01</string>
+  <long name="when_last_checked_for_root">1616327593912</long>
+  <set name="server_criterion" type="ServerCriterion">
+    <object>europe 5</object>
+    <object>load 5</object>
+    <object>interactive 5</object>
+    <object>ipv6 5</object>
+    <object>northamerica 5</object>
+    <object>free 5</object>
+    <object>p2p 5</object>
+    <object>voip 5</object>
+    <object>volume 5</object>
+  </set>
+  <boolean name="vpn">true</boolean>
+  <string name="username">a_hwrwurla</string>
+</yfconfig>
